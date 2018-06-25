@@ -1,0 +1,27 @@
+
+.player {
+  align-items: center;
+  display: flex;
+
+  //positions them on other sides
+  justify-content: space-between;
+}
+
+.player__name {
+  font-weight:300;
+  font-size:1.8rem;
+
+
+}
+
+.player__stats {
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.player__actions {
+  //never shrink item
+  flex-shrink: 0;
+
+}

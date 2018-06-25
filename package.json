@@ -1,0 +1,17 @@
+{
+  "name": "score-keep",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-runtime": "^6.18.0",
+    "meteor-node-stubs": "~0.2.0",
+    "numeral": "^2.0.1",
+    "prop-types": "^15.6.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-flip-move": "^2.7.2"
+  }
+}
